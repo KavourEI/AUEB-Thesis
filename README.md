@@ -1,5 +1,3 @@
-# AUEB-Thesis-Computations
-
 # Statistical Models for Natural Language Processing and Topic Modelling using R
 
 ## Description

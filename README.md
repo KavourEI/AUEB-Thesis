@@ -1,74 +1,32 @@
 # Statistical Models for Natural Language Processing and Topic Modelling using R
 
 ## Description
-This repository contains the code and documentation for the thesis titled "Statistical Models for Natural Language Processing and Topic Modelling using R." The thesis explores various statistical models and techniques used in the field of natural language processing (NLP) and focuses on their application in topic modeling. The thesis has been created as part of obtaining my second MSc in Applied Statistics in AUEB.
+This repository contains the code and documentation for my thesis titled "Statistical Models for Natural Language Processing and Topic Modelling using R." written to obtain my second master's degree in Athens University of Business and Economics). The thesis explores various statistical models and techniques used in the field of natural language processing (NLP) and focuses on their application in topic modeling. The thesis has been created as part of obtaining my second MSc in Applied Statistics in AUEB.
 
-## Introduction
-- Description of the thesis and its objectives.
+## Contents
 
-## 2 Machine Learning and Natural Language Processing
-### 2.1 Supervised Learning
-- Explanation of supervised learning in NLP.
+1. **Data**: This folder contains the data scraped and saved for use in fitting the models discussed in the thesis.
 
-### 2.2 Unsupervised Learning
-- Explanation of unsupervised learning in NLP.
+2. **Extractor**: The R scripts used to scrape the data, which are saved in the Data folder, are stored here.
 
-### 2.3 Reinforcement Learning
-- Introduction to reinforcement learning in the context of NLP.
+3. **Models**: This folder contains R scripts where the models discussed in the thesis are fitted.
 
-### 2.4 Applications of Machine Learning
-- Overview of various applications of machine learning in NLP.
+4. **Thesis_WIP.pdf**: The current version of the thesis, a work in progress.
 
-### 2.5 Natural Language Processing
-- Detailed discussion on NLP techniques and methodologies.
+## Usage
 
-## 3 Modelling and Visualizing Word Count Data
-- Methods for modeling and visualizing word count data.
+- **Data**: The data in this folder can be used to replicate the experiments and results discussed in the thesis. 
 
-## 4 Sentiment Analysis
-- Techniques and approaches for sentiment analysis in NLP.
+- **Extractor**: These scripts can be used to scrape data from relevant sources for future research or to update the dataset.
 
-## 5 Topic Modeling
-### 5.1 Latent Dirichlet Allocation
-- Explanation and implementation of Latent Dirichlet Allocation.
+- **Models**: The R scripts in this folder can be utilized to replicate the model fitting process and analyze different statistical models for natural language processing and topic modeling.
 
-### 5.2 Latent Semantic Analysis
-- Explanation and implementation of Latent Semantic Analysis.
+## How to Cite
 
-## 6 Application
-### 6.1 Data Collection
-- Description of data collection process.
+If you use any part of this work in your research or publication, please cite it as:
 
-#### 6.1.1 Web Scrapping Genres Collection
-- Methodology for scraping genre information.
+Themis Kavour. "Statistical Models for Natural Language Processing and Topic Modelling using R." 2024. Available at: [AUEB-Thesis](https://github.com/KavourEI/AUEB-Thesis).
 
-#### 6.1.2 Web Scrapping Titles Collection
-- Methodology for scraping titles.
+## Contact
 
-#### 6.1.3 Web Scrapping Abstracts Collection
-- Methodology for scraping abstracts.
-
-### 6.2 LDA application
-- Application of Latent Dirichlet Allocation.
-
-#### 6.2.1 Two genre model clustering
-- Details and results of clustering with two genre models.
-
-#### 6.2.2 Four genre model clustering
-- Details and results of clustering with four genre models.
-
-#### 6.2.3 Eight genre model clustering
-- Details and results of clustering with eight genre models.
-
-### 6.3 LSA application
-- Application of Latent Semantic Analysis.
-
-### 6.4 Sentiment Analysis
-- Application of sentiment analysis techniques.
-
-## 7 Selecting number of clusters
-- Methods for selecting the number of clusters in topic modeling.
-
-## 8 Conclusion
-- Summary of findings and conclusions drawn from the study.
-
+For any inquiries or feedback regarding this work, please contact Themis Kavour at [here](themis.kavour@icloud.com).

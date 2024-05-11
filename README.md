@@ -30,3 +30,8 @@ Themis Kavour. "Statistical Models for Natural Language Processing and Topic Mod
 ## Contact
 
 For any inquiries or feedback regarding this work, please contact Themis Kavour at [here](mailto:themis.kavour@icloud.com).
+
+## Acknowledgements 🙏🏼
+
+I extend my heartfelt appreciation to Professor [Panagiotis Papastamoulis](https://www.researchgate.net/profile/Panagiotis-Papastamoulis) for his exceptional guidance, unwavering support, and profound encouragement throughout the development of this thesis. His expertise and insightful feedback have not only shaped the direction of this research project but have also influenced my academic progression to this day. I am deeply grateful for his dedication and mentorship, which have enriched my academic journey and played a pivotal role in the completion of this work.
+

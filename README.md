@@ -29,4 +29,4 @@ Themis Kavour. "Statistical Models for Natural Language Processing and Topic Mod
 
 ## Contact
 
-For any inquiries or feedback regarding this work, please contact Themis Kavour at [here](themis.kavour@icloud.com).
+For any inquiries or feedback regarding this work, please contact Themis Kavour at [here](mailto:themis.kavour@icloud.com).
